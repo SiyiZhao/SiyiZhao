@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a guaduate student in astronomy at the [Department of Astronomy at Tsinghua University](https://astro.tsinghua.edu.cn) in Beijing, China.
+- 🔭 I’m currently working on 21-cm cosmology.
+- 📫 Contact me: 
+  - Email: siyizhao17@gmail.com
