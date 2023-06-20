@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a graduate student in astronomy at the [Department of Astronomy at Tsinghua University](https://astro.tsinghua.edu.cn) in Beijing, China.
 - 🔭 I’m currently working on 21-cm cosmology.
-- I'm interested in
+- 🌱 I'm interested in
   - 21-cm cosmology
   - Primordial non-Gaussianity
   - Cosmological inflation
